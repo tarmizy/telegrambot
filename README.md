@@ -41,4 +41,4 @@ This project is a Python script that fetches the latest invoice and billing info
 This project is licensed under the MIT License.
 
 ## Author
-Your Name
+TarmizyHarsha
